@@ -1,2 +1,2 @@
 # Hola-Mundo
-Tienda de Alquiler
+Iniciando en el mundo GitHub para respaldar mis proyectos y poder compartir información de Tecnología.
